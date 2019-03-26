@@ -1,2 +1,2 @@
-# Seat
+
 Seat Identifier App
