@@ -1,2 +1,2 @@
-# Projects
+# Seat
 Seat Identifier App
